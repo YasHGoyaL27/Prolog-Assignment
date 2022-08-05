@@ -1,0 +1,2 @@
+# Prolog-Assignment
+Create a well-commented knowledge base in Prolog for the given US Constitution document. The document consists of information about different bodies of the US government. Loading the knowledge base should be able to perform queries for the structure of the government, the power of different bodies of government, the various criteria for candidates to be eligible for a position, etc. as given in the document.
